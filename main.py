@@ -12,7 +12,7 @@ from langchain.tools import PythonREPLTool,Tool
 from langchain.agents import AgentType, create_csv_agent, initialize_agent
 
 # Load your OpenAI API key
-API_KEY = "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"
+API_KEY = "YOUR_API_KEY"
 
 
 @textbase.chatbot("talking-bot")
